@@ -2,3 +2,4 @@ yolov3.cfg
 yolov3.weights
 .venv/
 .ondir.was.here.touch
+.echodo_history
